@@ -20,4 +20,10 @@ version of myself.
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=115E41" alt="Profile" />
+---
+
+<div>
+    <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=115E41" alt="Profile" />
+    <img src="https://streak-stats.demolab.com?user=itspongs&theme=tokyonight)" alt="Streak" />
+    <img src="https://github-profile-trophy.vercel.app/?username=itspongs&theme=tokyonight)" alt="Trophies" />
+</div>
