@@ -6,6 +6,6 @@
 
 <div class="socials">
     <a href="https://github.com/itsnold">
-        <img src="https://img.shields.io/badge/GitHub%2C%20itspongs%2C%20181717%2C%20github%2C%20for-the-badge" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GitHub-itspongs-%234f0e09?style=for-the-badge&logo=github&logoSize=10&label=GitHub&labelColor=181717 " alt="GitHub" />
   </a>
 </div>
