@@ -4,6 +4,10 @@
 
 ### Second Year CS Student · Ateneo de Davao University · Aspiring Software Engineer
 
+Just a guy who aspires to be successful and
+overcome every obstacle. Shaping the best
+version of myself.
+
 <div class="socials">
     <a href="https://github.com/itspongs">
         <img src="https://img.shields.io/badge/GITHUB-itspongs-%233d3d3d?style=for-the-badge&logo=vercel&logoSize=10&label=GitHub&labelColor=%23757575" alt="GitHub" />
