@@ -5,10 +5,7 @@
 ### Second Year CS Student · Ateneo de Davao University · Aspiring Software Engineer
 
 <div class="socials">
-    <a href="https://github.com/yourname" class="badge github">
-        <span class="icon">
-            <i class="fab fa-github"></i>
-        </span>
-        <span class="label">GITHUB</span>
-    </a>
+    <a href="https://github.com/itsnold">
+        <img src="https://img.shields.io/badge/GitHub%2C%20itspongs%2C%20181717%2C%20github%2C%20for-the-badge" alt="GitHub" />
+  </a>
 </div>
