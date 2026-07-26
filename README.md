@@ -18,7 +18,7 @@ version of myself.
     <a href="">
         <img src="https://img.shields.io/badge/FACEBOOK-Joseph%20James%20Pungyan-%233d3d3d?style=for-the-badge&logo=facebook&logoSize=10&label=Facebook&labelColor=%233c46d6" alt="facebook">
     </a>
-
+</div>
 ---
 <p>
     I am <b>Joseph James P. Pungyan</b> and my nickname is <b>Pongs!</b>
