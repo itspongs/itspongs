@@ -44,3 +44,27 @@ version of myself.
 <img src="https://streak-stats.demolab.com?user=itspongs&theme=github-dark-blue&hide_border=true&ring=B22222&fire=8B0000&currStreakLabel=DC143C&sideNums=B22222&sideLabels=FFFFFF&dates=9E9E9E" alt="GitHub Streak"/>
 
 </div>
+
+---
+## My Tech Stacks
+<div align="center">
+    <p>
+        <h3>Languages</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=cpp,c,java" alt="Languages" />
+    </p>
+</div>
+<div align="center">
+    <p>
+        <h3>Web</h3>
+        <br>
+        <img src="html,css,js,ts,react,next,nodejs,vite" alt="Web" />
+    </p>
+</div>
+<div align="center">
+    <p>
+        <h3>Tools</h3>
+        <br>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,windows" alt="Tools" />
+    </p>
+</div>
