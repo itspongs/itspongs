@@ -2,7 +2,7 @@
 
 # Hello! I am Pongs 👋
 
-### Second Year Student, Computer Science
+### Second Year CS Student · Ateneo de Davao University · Aspiring Software Engineer
 
 <div class="socials">
     <a href="https://github.com/yourname" class="badge github">
