@@ -19,7 +19,9 @@ version of myself.
         <img src="https://img.shields.io/badge/FACEBOOK-Joseph%20James%20Pungyan-%233d3d3d?style=for-the-badge&logo=facebook&logoSize=10&label=Facebook&labelColor=%233c46d6" alt="facebook">
     </a>
 </div>
+
 ---
+
 <p>
     I am <b>Joseph James P. Pungyan</b> and my nickname is <b>Pongs!</b>
 </p>
@@ -31,10 +33,11 @@ version of myself.
 </p>
 
 ---
+
 ## Take a look at my progress!
 <div>
     <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=115E41" alt="Profile" />
 </div>
 <div>
-    <img src="https://streak-stats.demolab.com?user=itspongs&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=itspongs&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
