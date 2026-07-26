@@ -58,7 +58,7 @@ version of myself.
     <p>
         <h3>Web</h3>
         <br>
-        <img src="html,css,js,ts,react,nextjs,nodejs,vite" alt="Web" />
+        <img src=""https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,vite" alt="Web" />
     </p>
 </div>
 <div align="center">
