@@ -41,6 +41,6 @@ version of myself.
 
 <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=B22222&labelColor=2B0A0A" alt="Profile Views" height="30"/>
 <br>
-<img src="https://streak-stats.demolab.com?user=itspongs&theme=github-dark-blue&hide_border=true&ring=B22222&fire=8B0000&currStreakLabel=DC143C&sideNums=B22222&sideLabels=FFFFFF&dates=9E9E9E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=itspongs&hide_border=true&background=transparent&ring=B22222&fire=B22222&currStreakLabel=B22222&sideNums=B22222&sideLabels=FFFFFF&dates=8B949E&stroke=30363D" alt="GitHub Streak" />
 
 </div>
