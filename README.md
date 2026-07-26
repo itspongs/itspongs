@@ -58,13 +58,13 @@ version of myself.
     <p>
         <h3>Web</h3>
         <br>
-        <img src="html,css,js,ts,react,next,nodejs,vite" alt="Web" />
+        <img src="html,css,js,ts,react,nextjs,nodejs,vite" alt="Web" />
     </p>
 </div>
 <div align="center">
     <p>
         <h3>Tools</h3>
         <br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,sqlite,windows" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=aws,figma,mysql,git,github,vscode,windows" alt="Tools" />
     </p>
 </div>
