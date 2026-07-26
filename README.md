@@ -19,11 +19,12 @@ version of myself.
         <img src="https://img.shields.io/badge/FACEBOOK-Joseph%20James%20Pungyan-%233d3d3d?style=for-the-badge&logo=facebook&logoSize=10&label=Facebook&labelColor=%233c46d6" alt="facebook">
     </a>
 </div>
-
----
-
 <div>
     <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=115E41" alt="Profile" />
-    <img src="https://streak-stats.demolab.com?user=itspongs&theme=tokyonight)" alt="Streak" />
-    <img src="https://github-profile-trophy.vercel.app/?username=itspongs&theme=tokyonight)" alt="Trophies" />
 </div>
+<div>
+    <img src="https://streak-stats.demolab.com?user=itspongs&theme=tokyonight)" alt="Streak" />
+</div>
+
+
+---
