@@ -6,9 +6,12 @@
 
 <div class="socials">
     <a href="https://github.com/itspongs">
-        <img src="https://img.shields.io/badge/PORTOLFIO-itspongs-%233d3d3d?style=for-the-badge&logo=vercel&logoSize=10&label=GitHub&labelColor=%23757575" alt="GitHub" />
+        <img src="https://img.shields.io/badge/GITHUB-itspongs-%233d3d3d?style=for-the-badge&logo=vercel&logoSize=10&label=GitHub&labelColor=%23757575" alt="GitHub" />
     </a>
     <a href="https://josephjamespungyan.vercel.app">
         <img src="https://img.shields.io/badge/PORTOLFIO-josephjamespunyan.vercel.app-%2385221b?style=for-the-badge&logo=vercel&logoSize=10&label=Portfolio&labelColor=%23757575" alt="portfolio">
+    </a>
+    <a href="">
+        <img src="https://img.shields.io/badge/FACEBOOK-Joseph%20James%20Pungyan-%233d3d3d?style=for-the-badge&logo=facebook&logoSize=10&label=Facebook&labelColor=%233c46d6" alt="facebook">
     </a>
 </div>
