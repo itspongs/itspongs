@@ -20,4 +20,4 @@ version of myself.
     </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=itspongs&style=flat-square&color=115E41" alt="Profile" />
+<img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&color=115E41" alt="Profile" />
