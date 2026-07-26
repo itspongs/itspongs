@@ -37,6 +37,6 @@ version of myself.
 
 ## Take a look at my progress!
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&&theme=dark&hide_border=true alt="Profile" />
+    <img src="https://komarev.com/ghpvc/?username=itspongs&style=for-the-badge&&theme=dark&hide_border=true" alt="Profile" />
     <img src="https://streak-stats.demolab.com?user=itspongs&theme=github-dark-blue&hide_border=true&ring=B22222&fire=8B0000&currStreakLabel=DC143C" alt="GitHub streak" />
 </div>
